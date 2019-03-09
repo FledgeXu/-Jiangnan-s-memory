@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jnmemo",
+  "name": "Jiangnan's Memory",
+  "description": "There some about my home.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FledgeXu"],
+  "credits": "You can use it in modpacks anyway.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
